@@ -23,10 +23,10 @@ class Altimeter:
             return "N/A\n"
 
 #Functions
-def toFloat(fråga:str):
+def toFloat(question:str):
     while True:
             try:
-                variable = input(fråga).lower()
+                variable = input(question).lower()
                 if variable == "cls":
                     system("cls")
                 elif variable == "exit":
