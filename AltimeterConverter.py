@@ -35,7 +35,7 @@ def toFloat(fråga:str):
                     variable = float(variable)
                     return variable
             except ValueError:
-                print("Not a valid number")
+                print("Not a valid number or command")
                 continue
 
 #Backend
