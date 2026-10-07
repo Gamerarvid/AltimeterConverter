@@ -6,6 +6,6 @@ How to use:
 2. Enter the number
 
 General info:
-1. It will auto detect if you're inputing inHg or hPa by checking if the entered value is greater or less than 100 and convert it to the other unit.
-2. Type 'cls' to clear the screen
-3. Type 'exit' to exit the script
+- It will auto detect if you're inputing inHg or hPa by checking if the entered value is greater or less than 100 and convert it to the other unit.
+- Type 'cls' to clear the screen
+- Type 'exit' to exit the script
